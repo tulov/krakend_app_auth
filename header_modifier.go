@@ -1,4 +1,4 @@
-package krakend_flora_app_auth
+package auth
 
 import (
 	"encoding/hex"
